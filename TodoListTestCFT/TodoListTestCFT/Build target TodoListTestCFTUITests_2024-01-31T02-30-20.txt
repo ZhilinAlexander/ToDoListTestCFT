@@ -1,0 +1,23 @@
+
+Showing Recent Messages
+ProcessProductPackaging "" /Users/professor/Library/Developer/Xcode/DerivedData/TodoListTestCFT-bprbogoltlctqpgwcegylymhfeel/Build/Intermediates.noindex/TodoListTestCFT.build/Debug-iphonesimulator/TodoListTestCFTUITests.build/TodoListTestCFTUITests.xctest-Simulated.xcent (in target 'TodoListTestCFTUITests' from project 'TodoListTestCFT')
+    cd /Users/professor/тестовые2024/ЦФТтестовоеToDoList/test/TodoListTestCFT
+    
+    Entitlements:
+    
+    {
+    "application-identifier" = "P25U5CXSL7.Alexander-Zhilin.TodoListTestCFTUITests.xctrunner";
+    "com.apple.security.get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "P25U5CXSL7.Alexander-Zhilin.TodoListTestCFTUITests.xctrunner"
+    );
+}
+    
+    builtin-productPackagingUtility -entitlements -format xml -o /Users/professor/Library/Developer/Xcode/DerivedData/TodoListTestCFT-bprbogoltlctqpgwcegylymhfeel/Build/Intermediates.noindex/TodoListTestCFT.build/Debug-iphonesimulator/TodoListTestCFTUITests.build/TodoListTestCFTUITests.xctest-Simulated.xcent
+
+ProcessInfoPlistFile /Users/professor/Library/Developer/Xcode/DerivedData/TodoListTestCFT-bprbogoltlctqpgwcegylymhfeel/Build/Products/Debug-iphonesimulator/TodoListTestCFTUITests-Runner.app/PlugIns/TodoListTestCFTUITests.xctest/Info.plist /Users/professor/тестовые2024/ЦФТтестовоеToDoList/test/TodoListTestCFT/TodoListTestCFTUITests/Info.plist (in target 'TodoListTestCFTUITests' from project 'TodoListTestCFT')
+    cd /Users/professor/тестовые2024/ЦФТтестовоеToDoList/test/TodoListTestCFT
+    builtin-infoPlistUtility /Users/professor/тестовые2024/ЦФТтестовоеToDoList/test/TodoListTestCFT/TodoListTestCFTUITests/Info.plist -producttype com.apple.product-type.bundle.ui-testing -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/professor/Library/Developer/Xcode/DerivedData/TodoListTestCFT-bprbogoltlctqpgwcegylymhfeel/Build/Intermediates.noindex/TodoListTestCFT.build/Debug-iphonesimulator/TodoListTestCFTUITests.build/ProductTypeInfoPlistAdditions.plist -o /Users/professor/Library/Developer/Xcode/DerivedData/TodoListTestCFT-bprbogoltlctqpgwcegylymhfeel/Build/Products/Debug-iphonesimulator/TodoListTestCFTUITests-Runner.app/PlugIns/TodoListTestCFTUITests.xctest/Info.plist
+
+error: Build input file cannot be found: '/Users/professor/тестовые2024/ЦФТтестовоеToDoList/test/TodoListTestCFT/TodoListTestCFTUITests/Info.plist' (in target 'TodoListTestCFTUITests' from project 'TodoListTestCFT')
+

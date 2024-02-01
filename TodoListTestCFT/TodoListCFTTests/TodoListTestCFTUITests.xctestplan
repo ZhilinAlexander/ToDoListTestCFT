@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "9473F55E-CBA3-4A5D-94E8-D87972642192",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:TodoListTestCFT.xcodeproj",
+        "identifier" : "16B4AAD72B699E9900F5BF62",
+        "name" : "TodoListTestCFTUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
